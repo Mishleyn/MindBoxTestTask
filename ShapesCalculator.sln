@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapesCalculator", "TestTas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapesCalculatorTests", "TestProject2\ShapesCalculatorTests.csproj", "{F15B9F0D-7D0B-44A8-BC58-D2CEA9DF27A5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{378A7A37-9F81-4ABB-97E7-F0E9085062DE}"
+	ProjectSection(SolutionItems) = preProject
+		ProductsCategories.sql = ProductsCategories.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
