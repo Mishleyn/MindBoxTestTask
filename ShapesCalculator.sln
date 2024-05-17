@@ -5,9 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapesCalculator", "TestTask\ShapesCalculator.csproj", "{748D14C7-E7BA-4897-97B2-4AFB915F7786}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{D680DE50-503B-4319-A8C3-04E174DB016A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "TestProject2\TestProject2.csproj", "{F15B9F0D-7D0B-44A8-BC58-D2CEA9DF27A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapesCalculatorTests", "TestProject2\ShapesCalculatorTests.csproj", "{F15B9F0D-7D0B-44A8-BC58-D2CEA9DF27A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{748D14C7-E7BA-4897-97B2-4AFB915F7786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{748D14C7-E7BA-4897-97B2-4AFB915F7786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{748D14C7-E7BA-4897-97B2-4AFB915F7786}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D680DE50-503B-4319-A8C3-04E174DB016A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D680DE50-503B-4319-A8C3-04E174DB016A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D680DE50-503B-4319-A8C3-04E174DB016A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D680DE50-503B-4319-A8C3-04E174DB016A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F15B9F0D-7D0B-44A8-BC58-D2CEA9DF27A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F15B9F0D-7D0B-44A8-BC58-D2CEA9DF27A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F15B9F0D-7D0B-44A8-BC58-D2CEA9DF27A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
